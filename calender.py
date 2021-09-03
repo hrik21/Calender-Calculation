@@ -64,4 +64,4 @@ elif day==31:
         month=month+1
         print(day,month,year)
 else:
-    print("tere gaon mai hoti hogi itni taarik bhakk")
+    print("Invalid")
